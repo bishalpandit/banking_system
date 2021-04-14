@@ -1,0 +1,47 @@
+/* Global */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Index Page */
+
+img {
+
+    margin: 4rem 0;
+}
+.navbar {
+
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3), 0 7px 21px 0 rgba(0,0,0,0.20);
+}
+#header {
+
+    background-color: #edffec;
+    height: 100vh;
+}
+
+.head-txt {
+
+    color: #5eaaa8;
+    margin: 10rem 0;
+}
+
+
+.button {
+
+    margin: 1rem;
+    padding: 10px 15px;
+}
+
+@media(max-width: 766px) {
+
+    .head-txt {
+
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    
+}
+
